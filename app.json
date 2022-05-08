@@ -1,9 +1,9 @@
 {
-  "name": "ᴀɴᴏɴʏᴍᴏᴜs ᴍᴜsɪᴄ",
+  "name": "ΛႺՕ𝖱Λ ⴸС",
   "description": "A Telegram Bot to play audios and videos in telegram videochats.",
   "keywords": ["music", "voicechat", "telegram"],
-  "logo": "https://telegra.ph/file/d6ff45f5be2b42fcc2ffb.jpg",
-  "repository": "https://github.com/AnonymousR1025/AnonMusic",
+  "logo": "https://te.legra.ph/file/743570cee67092f5d03b7.jpg",
+  "repository": "https://github.com/MR-KANNADIGA/Agora-VC",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -25,12 +25,12 @@
     "SUPPORT": {
       "description": "Username of the chat where users will go and disturb you.(without @)",
       "required": true,
-      "value": "DevilsHeavenMF"
+      "value": "Agora_Robots"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID",
       "required": true,
-      "value": "1356469075"
+      "value": "5272015055"
     }
   }
 }
