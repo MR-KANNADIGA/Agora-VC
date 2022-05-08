@@ -1,4 +1,4 @@
-<h2 align="center">Telegram VC Player Bot</h2>
+<h2 align="center">ΛႺՕᎡΛ ᐯС</h2>
 <p>
 
 <p align="center">
