@@ -2,7 +2,7 @@
 <p>
 
 <p align="center">
-    <a href="https://github.com/AnonymousR1025/AnonMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonMusic?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/MR-KANNADIHA/Agora-VC/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonMusic?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/AnonymousR1025/AnonMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/AnonMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -13,7 +13,7 @@
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/d6ff45f5be2b42fcc2ffb.jpg"></a></p>
+<p align="center"><a href="https://t.me/KARUNADA_KINGS_AND_QUEENS"><img src="https://telegra.ph/file/d6ff45f5be2b42fcc2ffb.jpg"></a></p>
 
 Telegram bot for streaming music and video on telegram groups by the help of Telegram VideoChat Feature, 
 Powered by <a href="https://github.com/pytgcalls/pytgcalls">PyTgCalls</a>
@@ -54,16 +54,16 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 - `/end` - stop music play
 
 <h2 align="center"> Deploy To Heroku </h2>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousR1025/AnonMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MR-KANNADIGA/Agora-VC"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 ### Special Credits 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025) for [Nothing](https://github.com/AnonymousR1025/AnonMusic)
+- [ΛႺՕᎡΛ](https://github.com/MR-KANNADIGA) for [Nothing](https://github.com/AnonymousR1025/AnonMusic)
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) 💕
 - [Laky-64](https://github.com/Laky-64) for [Py-TgCalls](https://github.com/pytgcalls/pytgcalls) 💕
 - And Thanks To All [Contributors](https://github.com/AnonymousR1025/AnonMusic/graphs/contributors)! 💕
 
 ### Support 🎑
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-DevilsHeavenMF-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/karunada_Kings_And_Queens"><img src="https://img.shields.io/badge/-DevilsHeavenMF-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
