@@ -3,5 +3,5 @@ tgcrypto
 py-tgcalls
 youtube_search
 pytube
-git+https://github.com/MR-KANNADIGA/yt-dl@master
+git+https://github.com/MR-KANNADIGA
 youtube_dl
