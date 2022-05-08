@@ -25,7 +25,7 @@ from helpers.queues import QUEUE, add_to_queue, get_queue, clear_queue, pop_an_i
 from helpers.admin_check import *
 
 bot = Client(
-    "Anonymous",
+    "Agora",
     bot_token = os.environ["BOT_TOKEN"],
     api_id = int(os.environ["API_ID"]),
     api_hash = os.environ["API_HASH"]
@@ -43,7 +43,8 @@ LIVE_CHATS = []
 START_TEXT = """━━━━━━━━━━━━━━━━━━━━━━
 [🖤](https://te.legra.ph/file/743570cee67092f5d03b7.jpg) ʜᴇʏ, <b>{}</b> 
 
-ᴀ ғᴀsᴛ & sᴍᴏᴏᴛʜ ᴠᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩs.
+ᴀ ғᴀsᴛ & sᴍᴏᴏᴛʜ ᴠᴄ ᴩʟᴀ
+ᴀ ғᴀsᴛ & sᴍᴏᴏᴛʜ ᴠᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩsʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩs.
 
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ ᴍᴀᴅᴇ ʙʏ​ :[ΛႺՕ𝖱Λ♛︎](https://t.me/mr_agora)
@@ -60,7 +61,7 @@ START_BUTTONS = InlineKeyboardMarkup(
                         "🥺 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ 🥺", url="https://t.me/agora_robots?startgroup=true")
         ],
         [
-            InlineKeyboardButton("🧐 ʜᴇʟᴩ 🧐", callback_data=" help_cb"),
+            InlineKeyboardButton("🧐 ʜᴇʟᴩ 🧐", callback_data="help_cb"),
             InlineKeyboardButton("💔 sᴜᴩᴩᴏʀᴛ​ 💔", url=f"https://t.me/{SUPPORT}")
         ],
         [
