@@ -1,4 +1,4 @@
-<h2 align="center">ΛႺՕᎡΛ ᐯС</h2>
+<h2 align="center">ΛႺՕ𝖱Λ 𝗩С</h2>
 <p>
 
 <p align="center">
