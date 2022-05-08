@@ -2,7 +2,7 @@
 <p>
 
 <p align="center">
-    <a href="https://github.com/MR-KANNADIHA/Agora-VC/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonMusic?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/MR-KANNADIGA/Agora-VC/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonMusic?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/AnonymousR1025/AnonMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/AnonMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -13,7 +13,7 @@
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center"><a href="https://t.me/KARUNADA_KINGS_AND_QUEENS"><img src="https://te.legra.ph/file/743570cee67092f5d03b7.jpg"></a></p>
+<p align="center"><a href="https://t.me/Agora_Robots"><img src="https://te.legra.ph/file/743570cee67092f5d03b7.jpg"></a></p>
 
 Telegram bot for streaming music and video on telegram groups by the help of Telegram VideoChat Feature, 
 Powered by <a href="https://github.com/pytgcalls/pytgcalls">PyTgCalls</a>
@@ -63,7 +63,7 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 - And Thanks To All [Contributors](https://github.com/AnonymousR1025/AnonMusic/graphs/contributors)! 💕
 
 ### Support 🎑
-<a href="https://telegram.me/karunada_Kings_And_Queens"><img src="https://img.shields.io/badge/-DevilsHeavenMF-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/agora_robots"><img src="https://img.shields.io/badge/-agora_Robots-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
